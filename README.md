@@ -1,4 +1,4 @@
-# HORISEON CHALLENGE WEEK 1
+# HORISEON
 
 Repository containing full Horiseon index page with styling and images.
 
